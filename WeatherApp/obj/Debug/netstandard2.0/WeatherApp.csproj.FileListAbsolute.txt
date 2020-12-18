@@ -1,0 +1,9 @@
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+D:\Downloads\mobile-samples-master\mobile-samples-master\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb

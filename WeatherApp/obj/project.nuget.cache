@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mv56HCyIdgdGick5wCi6oEcLUtELAZkcdbgfmubkQn22m2LqCQdg24Owd7x+c02HlfTYJU5Lk90Irk45J8YUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\mobile-samples-master\\mobile-samples-master\\Weather\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kimochii\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Kimochii\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kimochii\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Kimochii\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
